@@ -1,6 +1,10 @@
 #include <iostream>
 
+
 double division(double a, double b);
+
+double addition(double a, double b);
+
 
 int main() {
     std::cout << "Team Name: ZakonKsiedzaDrRobaka\nLeader Role: Tester\nLeader Github ID: tomaszsztajkowski\n";
@@ -12,7 +16,12 @@ int main() {
     return EXIT_SUCCESS;
 }
 
+
 double division(double a, double b) {
     if (b == 0) return 0;
     return a / b;
+}
+
+double addition(double a, double b) {
+    return a + b;
 }
