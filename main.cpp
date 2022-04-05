@@ -1,5 +1,7 @@
 #include <iostream>
 
+double addition(double a,double b);
+
 int main() {
     std::cout << "Team Name: ZakonKsiedzaDrRobaka\nLeader Role: Tester\nLeader Github ID: tomaszsztajkowski\n";  
     std::cout << "DevOps: bartekmaka06\n";
@@ -8,4 +10,7 @@ int main() {
     std::cout << "Tomasz Sztajkowski, Role: Tester, Github ID: tomaszsztajkowski\n";
 
     return EXIT_SUCCESS;
+}
+double addition(double a,double b){
+    return a+b;
 }
