@@ -1,6 +1,6 @@
 #include <iostream>
 
-double difference(double A, double B);
+double difference(double a, double b);
 
 int main() {
     std::cout << "Team Name: ZakonKsiedzaDrRobaka\nLeader Role: Tester\nLeader Github ID: tomaszsztajkowski\n";  
@@ -11,6 +11,6 @@ int main() {
     return EXIT_SUCCESS;
 }
 
-double difference(double A, double B) {
-    return A - B;
+double difference(double a, double b) {
+    return a - b;
 }
