@@ -1,6 +1,6 @@
 #include <iostream>
 
-
+double difference(double a, double b);
 double multiplication(double a, double b);
 double division(double a, double b);
 double addition(double a, double b);
@@ -15,6 +15,9 @@ int main() {
     return EXIT_SUCCESS;
 }
 
+double difference(double a, double b) {
+    return a - b;
+}
 
 double multiplication(double a, double b) {
     return a * b;
