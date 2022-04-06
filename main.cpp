@@ -1,7 +1,7 @@
 #include <iostream>
 
 double difference(double a, double b);
-double multiplication(double a, double b);
+double multiplication(double a, double b); // franiarz
 double division(double a, double b);
 double addition(double a, double b);
 
@@ -19,11 +19,12 @@ double difference(double a, double b) {
     return a - b;
 }
 
-double multiplication(double a, double b) {
+double multiplication(double a, double b) { // piekna funkcja zrobiona przez frana
     return a * b;
 }
 
-double division(double a, double b) {
+double division(double a, double b) { // brzydka funckja zrobiona przez sztajke
+    //komentarz2
     if (b == 0) return 0;
     return a / b;
 }
