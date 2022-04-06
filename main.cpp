@@ -19,7 +19,7 @@ double difference(double a, double b) {
     return a - b;
 }
 
-double multiplication(double a, double b) {
+double multiplication(double a, double b) { // piekna funkcja zrobiona przez frana
     return a * b;
 }
 
