@@ -14,7 +14,7 @@ int main() {
 
     return EXIT_SUCCESS;
 }
-
+//komentarz3
 double difference(double a, double b) {
     return a - b;
 }
