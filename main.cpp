@@ -5,7 +5,7 @@ double multiplication(double a, double b);
 double division(double a, double b);
 double addition(double a, double b);
 
-int main() {
+int main()/*makapaka*/ {
     std::cout << "Team Name: ZakonKsiedzaDrRobaka\nLeader Role: Tester\nLeader Github ID: tomaszsztajkowski\n";
     std::cout << "DevOps: bartekmaka06\n";
     std::cout << "Developer #1: zgontea\n";
