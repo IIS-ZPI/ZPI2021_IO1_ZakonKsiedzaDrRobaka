@@ -7,9 +7,13 @@ double addition(double a, double b);
 
 int main()/*makapaka*/ {
     std::cout << "Team Name: ZakonKsiedzaDrRobaka\nLeader Role: Tester\nLeader Github ID: tomaszsztajkowski\n";
+    // Bart Monk loves Windows 7
     std::cout << "DevOps: bartekmaka06\n";
+    std::cout << "Developer #1: zgontea\n";
+    // Francich Karwina loves Fedora
     std::cout << "Developer #1: zgontea\n"; //dzbanek
     std::cout << "Developer #2: FranciszekKarwowski\n";
+    // Tomasz Sztajko power of Linux
     std::cout << "Tester #3: tomaszsztajkowski\n";
 
     return EXIT_SUCCESS;
