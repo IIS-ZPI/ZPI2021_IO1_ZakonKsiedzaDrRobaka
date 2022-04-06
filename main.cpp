@@ -22,7 +22,7 @@ double difference(double a, double b) {
 double multiplication(double a, double b) {
     return a * b;
 }
-
+//komentarz2
 double division(double a, double b) {
     if (b == 0) return 0;
     return a / b;
