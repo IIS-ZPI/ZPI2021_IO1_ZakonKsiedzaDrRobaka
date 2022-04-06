@@ -27,7 +27,7 @@ double division(double a, double b) {
     if (b == 0) return 0;
     return a / b;
 }
-
+//komentarz1
 double addition(double a, double b) {
     return a + b;
 }
