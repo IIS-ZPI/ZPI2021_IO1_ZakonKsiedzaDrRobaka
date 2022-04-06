@@ -1,7 +1,7 @@
 #include <iostream>
 
 double difference(double a, double b);
-double multiplication(double a, double b);
+double multiplication(double a, double b); // franiarz
 double division(double a, double b);
 double addition(double a, double b);
 
