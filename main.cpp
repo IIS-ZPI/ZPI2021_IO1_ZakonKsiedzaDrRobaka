@@ -10,6 +10,7 @@ int main() {
     std::cout << "DevOps: bartekmaka06\n";
     std::cout << "Developer #1: zgontea\n";
     std::cout << "Developer #2: FranciszekKarwowski\n";
+    // Tomasz Sztajko power of Linux
     std::cout << "Tester #3: tomaszsztajkowski\n";
 
     return EXIT_SUCCESS;
