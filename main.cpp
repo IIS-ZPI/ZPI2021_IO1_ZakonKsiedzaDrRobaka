@@ -23,7 +23,7 @@ double multiplication(double a, double b) { // piekna funkcja zrobiona przez fra
     return a * b;
 }
 
-double division(double a, double b) {
+double division(double a, double b) { // brzydka funckja zrobiona przez sztajke
     if (b == 0) return 0;
     return a / b;
 }
